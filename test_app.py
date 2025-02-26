@@ -1,5 +1,6 @@
-from app import add, divide, greet, multiply
 import unittest
+
+from app import add, divide, greet, multiply
 
 
 class TestAddFunction(unittest.TestCase):
