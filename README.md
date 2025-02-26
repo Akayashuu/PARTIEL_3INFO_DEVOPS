@@ -29,3 +29,6 @@ Ce dépôt contient un projet Python simple avec :
 7. Rendre le lien de votre répository contenant les github actions que vous aurez implémenté. 
 
 ***Attention à bien mettre votre repository en PUBLIC !***
+
+[![Python Linter CI](https://github.com/Akayashuu/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.ci.yml/badge.svg)](https://github.com/Akayashuu/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.ci.yml)
+[![Python Tests CI](https://github.com/Akayashuu/PARTIEL_3INFO_DEVOPS/actions/workflows/test.ci.yml/badge.svg)](https://github.com/Akayashuu/PARTIEL_3INFO_DEVOPS/actions/workflows/test.ci.yml)
